@@ -7,7 +7,7 @@ const RecruitmentIndexPage = () => {
   return (
     <div className={styles.text}>
       全ての募集
-      <Link to="/sign_in">ログイン</Link>
+      <Link to="/sign_in">ログインしてください！！！</Link>
       <RecruitmentCard />
     </div>
   );
